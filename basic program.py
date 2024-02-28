@@ -12,6 +12,7 @@ a = 87465468.336
 b ="Rishabh"
 c = None
 d = True
+
 e = complex(9)
 # print ("The type of a is:", type(a))
 # print ("The type of a is:", type(b))
